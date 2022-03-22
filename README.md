@@ -1,3 +1,3 @@
 # Portfolio Content Assignment
 
-## Web Fundementals
+## Web Fundamentals
